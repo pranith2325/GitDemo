@@ -1,1 +1,2 @@
 Welcome to Git Lab exercise
+Welcome to the version control
